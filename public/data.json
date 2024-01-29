@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Latest Web Development Technologies",
+    "cover_img": "../src/img/1.jpg",
+    "author_img": "../src/img/boy1.png",
+    "posted_date": "2024-01-26",
+    "reading_time": 8,
+    "hashtag": ["technology", "coding", "webdev"],
+    "name" : "Noor A Alam"
+  },
+  {
+    "id": 2,
+    "title": "Advancements in Science: A Deep Dive into Research and Innovation",
+    "cover_img": "../src/img/2.png",
+    "author_img": "../src/img/boy2.png",
+    "posted_date": "2024-01-27",
+    "reading_time": 10,
+    "hashtag": ["science", "research", "innovation"],
+    "name" : "Shapik AL Hasnat"
+  },
+  {
+    "id": 3,
+    "title": "Unleashing Creativity: The Art of Design",
+    "cover_img": "../src/img/3.png",
+    "author_img": "../src/img/girl1.jpg",
+    "posted_date": "2024-01-28",
+    "reading_time": 6,
+    "hashtag": ["art", "creativity", "design"],
+    "name" : "Hamim Iqbal"
+  },
+  {
+    "id": 4,
+    "title": "Prioritizing Health and Wellness: A Comprehensive Guide",
+    "cover_img": "../src/img/4.jpg",
+    "author_img": "../src/img/girl2.jpg",
+    "posted_date": "2024-01-29",
+    "reading_time": 12,
+    "hashtag": ["health", "fitness", "wellness"],
+    "name" : "Miraz"
+    
+  },
+  {
+    "id": 5,
+    "title": "Embarking on New Journeys: Travel, Adventure, and Exploration",
+    "cover_img": "../src/img/1.jpg",
+    "author_img": "../src/img/boy1.png",
+    "posted_date": "2024-01-30",
+    "reading_time": 7,
+    "hashtag": ["travel", "adventure", "explore"],
+    "name" : "Virat Kohli"
+  }
+]
